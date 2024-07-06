@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">Computer science student from Poland, aspiring data analyst</h3>
 
+<img align="right" alt="coding" width="400" src="https://pixabay.com/pl/vectors/kod-programowanie-html-6127616/">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikolajkocik&label=Profile%20views&color=0e75b6&style=flat" alt="mikolajkocik" /> </p>
 
-- 🌱 I’m currently learning **python and power Bi**
+- 🌱 I’m currently learning **python and power Bi but in the future i want to learn also azure too**
 
 - 👀 I’m interested in **data analysis tools**
 
