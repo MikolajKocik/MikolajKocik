@@ -31,7 +31,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     
-  ![snake gif](https://github.com/mikolajkocik/mikolajkocik/blob/output/github-contribution-grid-snake.gif)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mikolajkocik/mikolajkocik/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
