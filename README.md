@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">Computer science student from Poland, aspiring data analyst</h3>
 
-<img align="right" alt="coding" width="400" src="https://pixabay.com/pl/vectors/kod-programowanie-html-6127616/">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikolajkocik&label=Profile%20views&color=0e75b6&style=flat" alt="mikolajkocik" /> </p>
 
 - 🌱 I’m currently learning **python and power Bi but in the future i want to learn also azure too**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mikołaj kocik" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw0FXQBDL4Mc-irQuMC-908e&ust=1720348115864000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDRp9KakocDFQAAAAAdAAAAABAJ" alt="mikołaj kocik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mikołaj kocik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikołaj kocik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
