@@ -43,4 +43,3 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           source: ./dist  # Specify the directory containing the generated files
           branch: output  # Deploy to the output branch
-
