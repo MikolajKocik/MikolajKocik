@@ -10,9 +10,9 @@
 
 <div align="center">
   
-- 🌱 I’m currently learning **Python, Power BI**
+ 🌱 I’m currently learning **Python, Power BI**
 
-- 👀 I’m interested in **data analysis tools**
+ 👀 I’m interested in **data analysis tools**
 
  </div>
  
