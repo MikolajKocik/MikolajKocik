@@ -27,14 +27,14 @@ jobs:
         run: git status
 
       - name: Push changes to output branch
-        uses: ad-m/github-push-action@v3.2.0
+        uses: ad-m/github-push-action@v3.4.0  # Use the latest stable version
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
           force: true
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.2.2
+        uses: crazy-max/ghaction-github-pages@v3.4.1  # Use the latest stable version
         with:
           target_branch: output
           build_dir: dist
