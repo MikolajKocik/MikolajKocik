@@ -14,7 +14,7 @@
 
  👀 I’m interested in **data analysis tools**
 
- 📫 How to reach me **mikolajkocik02@gmail.com**
+ 📫 How to reach me **mikolajkocik@onet.pl**
 
  </div>
  
