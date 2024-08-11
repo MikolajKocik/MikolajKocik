@@ -10,9 +10,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning:
- **-** **Google Cloud***,
- **-** **Data modeling in Power BI**
+ 🌱 I’m currently learning **Google Cloud***,**Data modeling in Power BI**
     In the future also I want to learn **Python ML** and **Tableau**
 
  👀 I’m interested in **storytelling in data visualizations, data management and storage, AI & new technology**
