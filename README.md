@@ -10,9 +10,9 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Python Machine Learning, Power BI**
+ 🌱 I’m currently learning **Google Cloud, Data modeling in Power BI**; further I want to learn also **Python ML** and **Tableau**
 
- 👀 I’m interested in **data analysis tools**
+ 👀 I’m interested in **storytelling in data visualizations, data management and storage, AI & new technology**
 
  📫 How to reach me **mikolajkocik@onet.pl**
 
