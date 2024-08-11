@@ -12,7 +12,7 @@
   
  🌱 I’m currently learning **Google Cloud, Data modeling in Power BI**
 
- In the future also I want to learn **Python ML** and **Tableau**
+ In the future, I want to learn also: **Python ML** and **Tableau**
 
  👀 I’m interested in **storytelling in data visualizations**,
  
