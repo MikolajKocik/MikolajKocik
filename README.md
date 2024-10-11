@@ -10,7 +10,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Python ML**
+ 🌱 I’m currently learning **Python for data science: Pandas & Numpy libraries**
 
  👀 I’m interested in **storytelling in data visualizations**,
  
