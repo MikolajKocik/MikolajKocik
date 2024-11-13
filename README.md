@@ -23,7 +23,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,postgres,python,ai,git,gcp" /><br>
+    <img src="https://skillicons.dev/icons?i=,postgres,python,ai,git,gcp" /><br>
 </div>
 
 <br/>
