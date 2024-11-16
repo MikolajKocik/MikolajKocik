@@ -10,8 +10,7 @@
 
 <div align="center">
   
-🌟 Passionate about uncovering insights through data analysis and storytelling.
-I’m deeply interested in data visualization, data management, and exploring the possibilities of AI and emerging technologies.
+🌟 Programming student seeking interesting projects to learn and grow in the fields of data analysis and information systems, including app development.
 
 
 📫 Let’s connect: mikolajkocik@onet.pl
