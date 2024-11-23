@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mikolajkocik&label=Profile%20views&color=0e75b6&style=flat" alt="mikolajkocik" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Welcome+to+my+profile!+👋;Data+Analyst+%26+Tech+Enthusiast;Turning+Data+into+Stories!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Welcome+to+my+profile!+👋;Data+Analyst+%26+IT+Support;Turning+Data+into+Stories!;" />
 </h1>
 
 <h3 align="center">Computer science student from Poland, aspiring data analyst</h3>
