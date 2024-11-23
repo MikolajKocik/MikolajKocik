@@ -23,7 +23,7 @@
 <!-- Current Skills Section -->
 <h3 align="center">💼 Currently Using:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,python,ai,git,gcp,cs,dotnet,vscode,visualstudio,gitlab" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,python,ai,git,gcp,html,cs,dotnet,vscode,visualstudio,gitlab" /><br>
     <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
     <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
     <img src="https://img.shields.io/badge/-UML-007396?style=for-the-badge&logoColor=white" alt="UML" />
@@ -38,10 +38,7 @@
 <!-- Learning Section -->
 <h3 align="center">📘 Currently Learning:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postman,bash" /><br>
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=postman,docker" /><br>
     <img src="https://img.shields.io/badge/-API-005571?style=for-the-badge&logo=api&logoColor=white" alt="API" />
 </div>
 
@@ -53,7 +50,6 @@
 <div align="center">
     <img src="https://img.shields.io/badge/-Machine_Learning-007396?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
     <img src="https://img.shields.io/badge/-AI_Tools-FF6F00?style=for-the-badge&logoColor=white" alt="AI Tools" />
-    <img src="https://img.shields.io/badge/-Data_Visualization-2C9F45?style=for-the-badge&logoColor=white" alt="Data Visualization" />
 </div>
 
 
