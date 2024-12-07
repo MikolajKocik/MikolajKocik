@@ -23,7 +23,7 @@
 <!-- Current Skills Section -->
 <h3 align="center">💼 Currently Using:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,ai,git,html,cs,dotnet,vscode,visualstudio,gitlab" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,ai,git,html,cs,dotnet,visualstudio,gitlab" /><br>
     <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
     <img src="https://img.shields.io/badge/-UML-007396?style=for-the-badge&logoColor=white" alt="UML" />
     <img src="https://img.shields.io/badge/-BPMN_2.0-FF6F00?style=for-the-badge&logoColor=white" alt="BPMN 2.0" />
@@ -36,16 +36,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=postman,docker" /><br>
     <img src="https://img.shields.io/badge/-API-005571?style=for-the-badge&logo=api&logoColor=white" alt="API" />
-</div>
-
-
-<br/>
-
-<!-- Exploring Section -->
-<h3 align="center">🔍 Exploring:</h3>
-<div align="center">
-    <img src="https://img.shields.io/badge/-Machine_Learning-007396?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
-    <img src="https://img.shields.io/badge/-AI_Tools-FF6F00?style=for-the-badge&logoColor=white" alt="AI Tools" />
 </div>
 
 
