@@ -23,14 +23,10 @@
 <!-- Current Skills Section -->
 <h3 align="center">💼 Currently Using:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,python,ai,git,gcp,html,cs,dotnet,vscode,visualstudio,gitlab" /><br>
-    <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
+    <img src="https://skillicons.dev/icons?i=postgres,ai,git,html,cs,dotnet,vscode,visualstudio,gitlab" /><br>
     <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
     <img src="https://img.shields.io/badge/-UML-007396?style=for-the-badge&logoColor=white" alt="UML" />
     <img src="https://img.shields.io/badge/-BPMN_2.0-FF6F00?style=for-the-badge&logoColor=white" alt="BPMN 2.0" />
-    <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-    <img src="https://img.shields.io/badge/-Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
-    <img src="https://img.shields.io/badge/-Data_Modeling-4CAF50?style=for-the-badge&logoColor=white" alt="Data Modeling" />
 </div>
 
 <br/>
