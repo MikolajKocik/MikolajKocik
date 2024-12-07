@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Welcome+to+my+profile!+👋;.NET+Developer;Building+scalable+and+efficient+apps;Lifelong+learner+in+technology!" />
 </h1>
 
-<h3 align="center">Computer science student from Poland, aspiring data analyst</h3>
+<h3 align="center">Aspiring .NET Developer passionate about app development and problem-solving</h3>
 
 <br/>
 
 <div align="center">
   
-🌟 Programming student seeking interesting projects to learn and grow in the fields of data analysis and information systems, including app development.
+🌟 Programming student focused on mastering .NET technologies, information systems, and app development. Constantly learning through hands-on projects and exploring new challenges.
 
 
 📫 Let’s connect: mikolajkocik@onet.pl
