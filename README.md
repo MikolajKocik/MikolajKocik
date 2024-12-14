@@ -21,23 +21,26 @@
 <!-- Current Skills Section -->
 <h3 align="center">💼 Currently Using:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,ai,git,html,cs,dotnet,visualstudio,gitlab" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,ai,git,github,gitlab,html,css,cs,visualstudio" /><br>
     <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
     <img src="https://img.shields.io/badge/-UML-007396?style=for-the-badge&logoColor=white" alt="UML" />
     <img src="https://img.shields.io/badge/-BPMN_2.0-FF6F00?style=for-the-badge&logoColor=white" alt="BPMN 2.0" />
 </div>
-
 <br/>
 
 <!-- Learning Section -->
 <h3 align="center">📘 Currently Learning:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postman,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,dotnet" /><br>
     <img src="https://img.shields.io/badge/-API-005571?style=for-the-badge&logo=api&logoColor=white" alt="API" />
+    <img src="https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
 </div>
-
-
 <br/>
+
+<h3 align="center">📘 What I want to learn in the future:</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,react,azure,bootstrap,docker" /><br>
+</div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
