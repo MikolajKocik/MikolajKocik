@@ -33,7 +33,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=postman,dotnet" /><br>
     <img src="https://img.shields.io/badge/-API-005571?style=for-the-badge&logo=api&logoColor=white" alt="API" />
-    <img src="https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
 </div>
 <br/>
 
