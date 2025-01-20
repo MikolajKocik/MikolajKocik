@@ -38,7 +38,7 @@
 
 <h3 align="center">📘 What I want to learn in the future:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,azure,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,azure,js,docker,mongodb,react" /><br>
 </div>
 
 
