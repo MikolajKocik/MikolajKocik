@@ -45,10 +45,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikolajkocik&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-   <img width="390" src="https://github-readme-stats.vercel.app/api?username=mikolajkocik&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="mikolajkocik"/>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mikolajkocik&theme=dracula&hide_border=true" alt="mikolajkocik" />
-  <br/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mikolajkocik&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="mikolajkocik"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikolajkocik&layout=compact&langs_count=10&theme=dracula&hide_border=true" alt="Top Languages" /> 
 </div>
 
