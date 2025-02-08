@@ -31,7 +31,7 @@
 <!-- Learning Section -->
 <h3 align="center">📘 Currently Learning:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,postman,azure" /><br>
     <img src="https://img.shields.io/badge/-API-005571?style=for-the-badge&logo=api&logoColor=white" alt="API" />
     <img src="https://img.shields.io/badge/Bootstrap-7B2CBF?style=for-the-badge" alt="Bootstrap" />
 </div>
@@ -39,7 +39,7 @@
 
 <h3 align="center">📘 What I want to learn in the future:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postman,azure,js,docker,mongodb,react" /><br>
+    <img src="https://skillicons.dev/icons?i=js,docker,mongodb,react" /><br>
 </div>
 
 
