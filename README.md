@@ -28,38 +28,18 @@
 <h2 align="center">🚀 My Tech Stack & Tools</h2>
 <div align="center">
 
-  <!-- Languages & Frameworks -->
-  <h3>Languages & Frameworks</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,postgres" alt="Languages & Frameworks" />
-  </p>
-  
   <!-- Tools -->
-  <h3>Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,ai,visualstudio,postman" alt="Git, GitHub, GitLab, AI, Postman" /><br>
-    <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
-    <img src="https://img.shields.io/badge/UML-007396?style=for-the-badge&logoColor=white" alt="UML" />
-    <img src="https://img.shields.io/badge/BPMN_2.0-FF6F00?style=for-the-badge&logoColor=white" alt="BPMN 2.0" />
-    <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=api&logoColor=white" alt="API" />
+      <img src="https://skillicons.dev/icons?i=py,windows" alt="Python,Windows" /><br>
   </p>
   
 <br>
-
-<!-- Ongoing Development -->
-<h2 align="center">📘 Ongoing Development</h2>
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=js,py,windows" alt="JavaScript,Python,Windows" /><br>
-  </p>
-</div>
-<br/>
 
 <!-- Future Roadmap -->
 <h2 align="center">🚀 Future Roadmap</h2>
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,azure,linux,powershell" alt="Docker, MongoDB, Azure, Linux, Powershell" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,linux,powershell" alt="Docker, Azure, Linux, Powershell" />
   </p>
     <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logoColor=white" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" alt="Wireshark" />
