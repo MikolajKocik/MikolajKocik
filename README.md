@@ -16,10 +16,6 @@
 
 <br>
 
-<div align="center">
-<h3>📫 Let’s connect: mikolajkocik@onet.pl</h3>
-</div>
-
 </div>
 
 <br>
