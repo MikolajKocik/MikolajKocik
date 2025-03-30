@@ -30,7 +30,7 @@
 
   <!-- Tools -->
   <p>
-      <img src="https://skillicons.dev/icons?i=py,windows" alt="Python,Windows" /><br>
+      <img src="https://skillicons.dev/icons?i=cs,py,windows" alt="Python,Windows" /><br>
   </p>
   
 <br>
