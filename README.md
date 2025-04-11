@@ -26,7 +26,7 @@
 
   <!-- Tools -->
   <p>
-      <img src="https://skillicons.dev/icons?i=cs,py,windows" alt="Python,Windows" /><br>
+      <img src="https://skillicons.dev/icons?i=cs,windows" alt="Windows" /><br>
   </p>
   
 <br>
@@ -35,7 +35,7 @@
 <h2 align="center">🚀 Future Roadmap</h2>
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,azure,linux,powershell" alt="Docker, Azure, Linux, Powershell" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,linux,py,powershell" alt="Docker, Azure, Linux, Powershell, Python" />
   </p>
     <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logoColor=white" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" alt="Wireshark" />
