@@ -3,7 +3,7 @@
         Mikołaj Kocik
     </h1>
     <p style="font-size: 18px; color: #34495e; margin-top: 0;">
-        Cybersecurity Specialist | Securing Tomorrow's Technology
+        Aspiring Cybersecurity Specialist | Securing Tomorrow's Technology
     </p>
     <hr style="width: 50%; border: 1px solid #2c3e50; margin: 20px auto;">
 </section>
