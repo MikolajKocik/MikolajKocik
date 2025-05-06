@@ -25,12 +25,13 @@
 
   <!-- Tools -->
   <p>
-      <img src="https://skillicons.dev/icons?i=cs,windows" alt="Windows" /><br>
+      <img src="https://skillicons.dev/icons?i=cs,visualstudio,git,postgres,windows" alt="Csharp, VisualStudio, Git, PostgreSQL, Windows" /><br>
   </p>
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/TCP/IP-2E8B57?style=for-the-badge&logoColor=white" alt="TCP/IP" />
   <img src="https://img.shields.io/badge/Office%20365-D8341D?style=for-the-badge&logoColor=white" alt="Office 365" />
-  
+  <img src="https://img.shields.io/badge/DNS-A020F0?style=for-the-badge&logoColor=white" alt="DNS" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-FFA500?style=for-the-badge&logoColor=black" alt="Microsoft SQL Server" />
 <br>
 
 <!-- Certifications Section -->
@@ -46,9 +47,10 @@
 <h2 align="center">🚀 Future Roadmap</h2>
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,linux,py,powershell,azure" alt="Docker, Linux, Powershell, Python, Azure" />
+    <img src="https://skillicons.dev/icons?i=docker,ubuntu,linux,bash,py,powershell,azure" alt="Docker, Ubuntu, Linux, Bash, Powershell, Python, Azure" />
   </p>
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" alt="Wireshark" />
+    <img src="https://img.shields.io/badge/Zabbix-00CC00?style=for-the-badge&logoColor=white" alt="Zabbix" />
 </div>
 
 <br/>
