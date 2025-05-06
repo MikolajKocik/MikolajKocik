@@ -30,33 +30,25 @@
   
 <br>
 
-<!-- Future Roadmap -->
-<h2 align="center">🚀 Future Roadmap</h2>
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=docker,linux,py,powershell" alt="Docker, Linux, Powershell, Python" />
-  </p>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" alt="Wireshark" />
-</div>
-<br/>
-
 <!-- Certifications Section -->
 <h2 align="center">🏆 Certifications</h2>
 
-<!-- Currently Pursuing -->
-<h3 align="center">Currently Pursuing</h3>
+<h3 align="center">🚧 In Progress</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/CompTIA%20A+-F20000?style=for-the-badge&logoColor=white" alt="CompTIA A+" />
 </div>
+
 <br/>
 
-<!-- Future Aspirations -->
-<h3 align="center">Future Aspirations</h3>
+<h2 align="center">🚀 Future Roadmap</h2>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=Azure" alt="Azure" />
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,linux,py,powershell,azure" alt="Docker, Linux, Powershell, Python, Azure" />
+  </p>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" alt="Wireshark" />
 </div>
-<br/>
 
+<br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
