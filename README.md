@@ -36,12 +36,7 @@
   <p>
     <img src="https://skillicons.dev/icons?i=docker,linux,py,powershell" alt="Docker, Linux, Powershell, Python" />
   </p>
-    <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logoColor=white" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" alt="Wireshark" />
-    <img src="https://img.shields.io/badge/Nmap-094A83?style=for-the-badge&logoColor=white" alt="Nmap" />
-    <img src="https://img.shields.io/badge/Metasploit-2A2B2A?style=for-the-badge&logoColor=white" alt="Metasploit" />
-    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logoColor=white" alt="Splunk" />
-    <img src="https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logoColor=white" alt="OpenVAS" />
 </div>
 <br/>
 
