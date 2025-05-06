@@ -27,6 +27,9 @@
   <p>
       <img src="https://skillicons.dev/icons?i=cs,windows" alt="Windows" /><br>
   </p>
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/TCP/IP-2E8B57?style=for-the-badge&logoColor=white" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/Office%20365-D8341D?style=for-the-badge&logoColor=white" alt="Office 365" />
   
 <br>
 
