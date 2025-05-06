@@ -25,7 +25,7 @@
 
   <!-- Tools -->
   <p>
-      <img src="https://skillicons.dev/icons?i=cs,visualstudio,git,postgres,windows" alt="Csharp, VisualStudio, Git, PostgreSQL, Windows" /><br>
+      <img src="https://skillicons.dev/icons?i=git,postgres,windows" alt="Git, PostgreSQL, Windows" /><br>
   </p>
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/TCP/IP-2E8B57?style=for-the-badge&logoColor=white" alt="TCP/IP" />
