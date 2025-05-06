@@ -53,9 +53,7 @@
 <!-- Future Aspirations -->
 <h3 align="center">Future Aspirations</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/CompTIA%20Network+-E32827?style=for-the-badge&logoColor=white" alt="CompTIA Network+" />
-  <img src="https://img.shields.io/badge/CompTIA%20Security+-005571?style=for-the-badge&logoColor=white" alt="CompTIA Security+" />
-  <img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+     <img src="https://skillicons.dev/icons?i=Azure" alt="Azure" />
 </div>
 <br/>
 
