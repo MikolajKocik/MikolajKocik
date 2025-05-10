@@ -56,6 +56,7 @@
   </p>
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" alt="Wireshark" />
     <img src="https://img.shields.io/badge/Zabbix-00CC00?style=for-the-badge&logoColor=white" alt="Zabbix" />
+    <img src="https://img.shields.io/badge/CCNA-009900?style=for-the-badge&logoColor=white" alt="CCNA" />
 </div>
 
 <br/>
