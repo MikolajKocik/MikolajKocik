@@ -25,13 +25,18 @@
 
   <!-- Tools -->
   <p>
-      <img src="https://skillicons.dev/icons?i=git,postgres,windows" alt="Git, PostgreSQL, Windows" /><br>
+      <img src="https://skillicons.dev/icons?i=git,ubuntu,linux,bash,postgres,windows,cs"/><br>
   </p>
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/TCP/IP-2E8B57?style=for-the-badge&logoColor=white" alt="TCP/IP" />
   <img src="https://img.shields.io/badge/Office%20365-D8341D?style=for-the-badge&logoColor=white" alt="Office 365" />
   <img src="https://img.shields.io/badge/DNS-A020F0?style=for-the-badge&logoColor=white" alt="DNS" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-FFA500?style=for-the-badge&logoColor=black" alt="Microsoft SQL Server" />
+  <br>
+  <img src="https://img.shields.io/badge/SSH-DC143C?style=for-the-badge&logoColor=white" alt="SSH" />
+  <img src="https://img.shields.io/badge/Windows%20Server-008080?style=for-the-badge&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/HTML-DAA520?style=for-the-badge&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/API-007BFF?style=for-the-badge&logoColor=white" alt="API" />
 <br>
 
 <!-- Certifications Section -->
@@ -47,7 +52,7 @@
 <h2 align="center">🚀 Future Roadmap</h2>
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,ubuntu,linux,bash,py,powershell,azure" alt="Docker, Ubuntu, Linux, Bash, Powershell, Python, Azure" />
+    <img src="https://skillicons.dev/icons?i=docker,py,powershell,azure" alt="Docker, Powershell, Python, Azure" />
   </p>
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" alt="Wireshark" />
     <img src="https://img.shields.io/badge/Zabbix-00CC00?style=for-the-badge&logoColor=white" alt="Zabbix" />
