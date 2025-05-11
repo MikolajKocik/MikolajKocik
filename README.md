@@ -9,7 +9,7 @@
 
 <div align="center">
 
-🔒 Passionate about protecting digital ecosystems, analyzing threats, and implementing robust defense strategies. Focused on staying ahead of emerging challenges and continuously improving skills through hands-on experience.
+Pasjonat technologii informatycznych z głębokim zainteresowaniem administracją systemami, rozwiązaniami chmurowymi oraz bezpieczeństwem aplikacji. Skupiony na praktycznym wdrażaniu i utrzymaniu infrastruktury IT oraz proaktywnym zapewnianiu jej stabilności i bezpieczeństwa. Chętnie podejmuję nowe wyzwania i stale rozwijam swoje umiejętności poprzez praktyczne projekty i naukę.
 
 </div>
 
