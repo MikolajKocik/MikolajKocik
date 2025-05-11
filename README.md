@@ -25,7 +25,7 @@
 
   <!-- Tools -->
   <p>
-      <img src="https://skillicons.dev/icons?i=git,ubuntu,linux,bash,postgres,windows,cs"/><br>
+      <img src="https://skillicons.dev/icons?i=git,ubuntu,linux,bash,postgres,windows,cs,html"/><br>
   </p>
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/TCP/IP-2E8B57?style=for-the-badge&logoColor=white" alt="TCP/IP" />
@@ -35,7 +35,6 @@
   <br>
   <img src="https://img.shields.io/badge/SSH-DC143C?style=for-the-badge&logoColor=white" alt="SSH" />
   <img src="https://img.shields.io/badge/Windows%20Server-008080?style=for-the-badge&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/HTML-DAA520?style=for-the-badge&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/API-007BFF?style=for-the-badge&logoColor=white" alt="API" />
 <br>
 
