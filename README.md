@@ -68,9 +68,6 @@ Pasjonat technologii informatycznych z głębokim zainteresowaniem administracj�
 </div>
 
 <br/><br/>
-
 <hr/>
-
 <br/>
-
 <br/>
