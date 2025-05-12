@@ -20,7 +20,7 @@ Pasjonat technologii informatycznych z głębokim zainteresowaniem administracj�
 <br>
 
 <!-- My Tech Stack & Tools -->
-<h2 align="center">🚀 My Tech Stack & Tools</h2>
+<h2 align="center">🚀 Stack technologiczny</h2>
 <div align="center">
 
   <!-- Tools -->
@@ -39,16 +39,16 @@ Pasjonat technologii informatycznych z głębokim zainteresowaniem administracj�
 <br>
 
 <!-- Certifications Section -->
-<h2 align="center">🏆 Certifications</h2>
+<h2 align="center">🏆 Certyfikaty</h2>
 
-<h3 align="center">🚧 In Progress</h3>
+<h3 align="center">🚧 Aktualnie podejmowane</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/CompTIA%20A+-F20000?style=for-the-badge&logoColor=white" alt="CompTIA A+" />
 </div>
 
 <br/>
 
-<h2 align="center">🚀 Future Roadmap</h2>
+<h2 align="center">🚀 W planach</h2>
 <div align="center">
   <p>
     <img src="https://skillicons.dev/icons?i=docker,py,powershell,azure" alt="Docker, Powershell, Python, Azure" />
@@ -60,7 +60,7 @@ Pasjonat technologii informatycznych z głębokim zainteresowaniem administracj�
 
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Statystyki ⚡</h2>
 <br>
 <div align=center>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=mikolajkocik&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="mikolajkocik"/>
